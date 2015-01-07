@@ -1,3 +1,3 @@
-var GraphicsService = require('./lib/manager');
+var GraphicsService = require('./lib/graphics');
 
 module.exports = GraphicsService;
