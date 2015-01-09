@@ -1,6 +1,6 @@
 {
   "name": "rotor-service-graphics",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "description": "Graphics service for RotorWeb engine.",
   "main": "index.js",
   "scripts": {
